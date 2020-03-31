@@ -30,7 +30,7 @@
     "commander": "*",
     "glob": "~3.1.21",
     "async": "~0.2.7",
-    "rimraf": "~2.2.0",
+    "rimraf": "~2.7.1",
     "backbone": "~1.0.0",
     "styled_string": "*",
     "colors": "~0.6.0",
