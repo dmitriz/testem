@@ -35,7 +35,7 @@
     "styled_string": "*",
     "colors": "~0.6.0",
     "fileset": "~0.1.4",
-    "growl": "~1.7.0",
+    "growl": "~1.10.5",
     "consolidate": "~0.8.0",
     "did_it_work": "~0.0.5",
     "fireworm": "~0.7.0",
